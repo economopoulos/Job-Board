@@ -1,0 +1,56 @@
+.job-template li {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  margin-left: 2rem;
+}
+
+.job-template h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.job-template h3 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+  color: #258080;
+}
+
+.job-template p {
+  font-size: 1.1rem;
+  margin: 0.4rem 0;
+  line-height: 1.1;
+}
+
+.job-template div {
+  font-size: 1.3rem;
+  margin: 0.5rem 0;
+}
+
+.job-template {
+  margin-top: 2rem;
+  line-height: 1.1;
+  color: #000000bb;
+  font-size: 1.1rem;
+}
+
+.job-template a {
+  text-decoration: underline;
+  color: rgba(0, 0, 0, 0.792);
+}
+
+.strong {
+  margin: 0.5rem 0;
+}
+
+#fetch-button {
+  text-decoration: none;
+}
+
+.job-container {
+  margin-top: 2rem;
+}
+
+hr {
+  margin-bottom: 1rem;
+  opacity: 0.2;
+}
